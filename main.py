@@ -1,0 +1,1 @@
+# No backend needed for this front-end only app. If backend integration is desired, implement OCR processing here.
